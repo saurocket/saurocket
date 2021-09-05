@@ -2,7 +2,7 @@
 ### I'm a frontend developer
 
 I like
-- :bike bike
+- :bike: bike
 - :metal: Rock'n roll
 - :guitar: guitar
     
