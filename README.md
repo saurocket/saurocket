@@ -34,10 +34,12 @@ and coding of course :computer:
 ### You can contact me:
 [<img align="left" alt="telegram" width="26px" src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png"/>][telegram]
 [<img align="left" alt="linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"/>][linkedin]
-[<img align="left" alt="email" width="26px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"/>][telegram]
+[<img align="left" alt="email" width="26px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"/>][email]
+
+
 [<img align="left" alt="email" height="26px" src="https://www.codewars.com/users/saurocket/badges/small"/>][codewars]
 
-[linkedin]: linkedin.com/in/yauheni-luzakou
 [telegram]: https://t.me/saurocket 
+[linkedin]: linkedin.com/in/yauheni-luzakou
 [email]: yauheni.luzakou@gmail.com
 [codewars]: https://www.codewars.com/users/saurocket
