@@ -1,6 +1,6 @@
 ## Hello. My name is Yauheni
 ### I'm a frontend developer
-###I work in :rocket: rocket [https://www.openprojects.com.pl/][work] :rocket: rocket
+#### I work in :rocket: rocket [https://www.openprojects.com.pl/][work] :rocket: rocket
 
 I like
 - :bike: bike
