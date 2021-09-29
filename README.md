@@ -1,5 +1,6 @@
 ## Hello. My name is Yauheni
 ### I'm a frontend developer
+###I work in :rocket: rocket [https://www.openprojects.com.pl/][work] :rocket: rocket
 
 I like
 - :bike: bike
@@ -42,3 +43,4 @@ and coding of course :computer:
 [telegram]: https://t.me/saurocket 
 [linkedin]: https://www.linkedin.com/in/yauheni-luzakou
 [codewars]: https://www.codewars.com/users/saurocket
+[work]:https://www.openprojects.com.pl/
